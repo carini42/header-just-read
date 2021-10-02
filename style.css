@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Podkova:wght@400;500;600;700;800&display=swap');
+
+body {
+    overflow-x: hidden;
+    margin: 0;
+    max-width: 1920px;
+    width: 100%;
+    font: 'Podkova', sans-serif;
+    background-image: url(./read.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content-width {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+nav ul, #login ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+h1, h2, p, li, a, button {
+    text-decoration: none;
+    color: #463F3A;
+}

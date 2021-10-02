@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 0px;
+}
+
+nav ul {
+    display: flex;
+ }
+
+nav ul li a{
+    margin-right: 60px;
+}
+
+nav ul li:last-child {
+    margin: 0;
+}
+
+nav ul li a {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19.2px;   
+    font-family: 'Podkova'; 
+}
+
+#login ul {
+    display: flex;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19.2px;   
+    font-family: 'Podkova';
+}
+
+#login ul li:last-child {
+    margin-left: 60px;
+}

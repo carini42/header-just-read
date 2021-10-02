@@ -1,0 +1,36 @@
+h1 {
+    font-weight: 800;
+    font-style: normal;
+    font-size: 102.4px;   
+    font-family: 'Podkova'; 
+
+}
+
+h2 {
+    font-weight: 800;
+    font-style: normal;
+    font-size: 38.4px;   
+    font-family: 'Podkova'; 
+
+}
+
+p ul li {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25.6px;   
+    font-family: 'Podkova'; 
+
+}
+
+.button{
+    text-decoration: none;
+    font-size: 19.2px;
+    color: #463F3A;
+    font-family: 'Podkova';
+    background: #F4F3EE;
+   
+}
+.button:hover {
+    color: #FFF;
+    background:#E0AFA0;
+}
